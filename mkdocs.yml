@@ -1,0 +1,21 @@
+site_name: Checkem Docs
+site_url: https://docs.resusc.io
+nav:
+  - Home: index.md
+  - Getting Started: 
+    - Accessing Checkem: getting-started/index.md
+    - Joining an Organization: getting-started/joining-an-organization.md
+    - Using a Checklist: getting-started/using-a-checklist.md
+theme:
+  name: material
+  palette:
+    primary: custom
+  logo: images/logo.png
+  favicon: images/logo.png
+  features:
+    - navigation.footer
+extra_css:
+  - stylesheets/extra.css
+copyright: '&copy; 2023 Resuscio'
+markdown_extensions:
+  - footnotes

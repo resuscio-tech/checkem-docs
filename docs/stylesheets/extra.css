@@ -1,0 +1,13 @@
+:root {
+    --md-primary-fg-color:        #29b473;
+    /* --md-primary-fg-color--light: #ECB7B7;
+    --md-primary-fg-color--dark:  #90030C; */
+  }
+
+.md-main {
+  background-image: url("../images/checkem_pattern_02_white-bg_00.png");
+}
+
+.md-main__inner {
+  background-color: #ffffff;
+}
