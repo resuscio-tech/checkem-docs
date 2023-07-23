@@ -6,6 +6,11 @@ nav:
     - Accessing Checkem: getting-started/index.md
     - Joining an Organization: getting-started/joining-an-organization.md
     - Using a Checklist: getting-started/using-a-checklist.md
+  - All About Checklists:
+    - Checklist Structure: checklists/checklist-structure.md
+    - Basic Items: checklists/basic-items.md
+    - Time Items: checklists/time-items.md
+
 theme:
   name: material
   palette:
